@@ -1,0 +1,86 @@
+{
+  "divisions": [
+    {
+      "name": "Ahmedabad",
+      "hospitals": [
+        "Civil Hospital Ahmedabad",
+        "Sterling Hospital",
+        "Zydus Hospital",
+        "CIMS Hospital",
+        "Shalby Hospital",
+        "SAL Hospital",
+        "HCG Cancer Centre",
+        "Karnavati Hospital",
+        "Apollo Hospital Ahmedabad"
+      ]
+    },
+    {
+      "name": "Surat",
+      "hospitals": [
+        "New Civil Hospital Surat",
+        "Sanjeevani Multi Speciality Hospital",
+        "Kiran Multi Super Specialty Hospital",
+        "Sarthak Hospital",
+        "Sunshine Global Hospital",
+        "Tristar Hospital",
+        "Apple Hospital Surat"
+      ]
+    },
+    {
+      "name": "Vadodara",
+      "hospitals": [
+        "Savitri Hospital",
+        "Bankers Heart Institute",
+        "Sterling Hospital Vadodara",
+        "Shree Krishna Hospital",
+        "Bhailal Amin General Hospital",
+        "Baroda Heart Institute and Research Centre"
+      ]
+    },
+    {
+      "name": "Rajkot",
+      "hospitals": [
+        "Wockhardt Hospital Rajkot",
+        "HCG Cancer Centre Rajkot",
+        "Sterling Hospital Rajkot",
+        "Rajkot Civil Hospital",
+        "Gokul Super Speciality Hospital"
+      ]
+    },
+    {
+      "name": "Bhavnagar",
+      "hospitals": [
+        "Sir Takhtsinhji General Hospital",
+        "Shree Krishna Hospital Bhavnagar",
+        "Apple Multi Speciality Hospital",
+        "HCG Hospital Bhavnagar",
+        "Kailash Cancer Hospital"
+      ]
+    },
+    {
+      "name": "Jamnagar",
+      "hospitals": [
+        "Guru Gobind Singh Government Hospital",
+        "GG Hospital",
+        "Gokul Hospital",
+        "Aashirvad Hospital Jamnagar"
+      ]
+    },
+    {
+      "name": "Gandhinagar",
+      "hospitals": [
+        "Apollo Hospital Gandhinagar",
+        "Civil Hospital Gandhinagar",
+        "Government Medical College and Hospital"
+      ]
+    },
+    {
+      "name": "Bhuj",
+      "hospitals": [
+        "G.K. General Hospital",
+        "Sterling Ramkrishna Hospital",
+        "Kutchi Leuva Patel Seva Samaj Hospital"
+      ]
+    }
+  ]
+}

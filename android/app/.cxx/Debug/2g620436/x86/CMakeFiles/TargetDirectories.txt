@@ -1,0 +1,2 @@
+D:/Github/Arogyam/android/app/.cxx/Debug/2g620436/x86/CMakeFiles/edit_cache.dir
+D:/Github/Arogyam/android/app/.cxx/Debug/2g620436/x86/CMakeFiles/rebuild_cache.dir
